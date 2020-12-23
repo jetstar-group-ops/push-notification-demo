@@ -1,1 +1,1 @@
-# Apple push notification demo using .Net
+# Apple push notification demo using .Net Core
