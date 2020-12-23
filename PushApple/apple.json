@@ -1,0 +1,12 @@
+{
+    "p8privateKey": "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgLMckp5R8EhJzPWmcxZdR92z/hC1PUDeWVMDnGZt+6eKgCgYIKoZIzj0DAQehRANCAARvpgWyMABbpOdYItsGIosaRdIqsCdFbhWt2vs8THPePIcsIduomY/FDhpvT3DeTVWvfYg03VMYyJAviJzACv6r",
+    "p8privateKeyId": "3ASXP6C29W",
+    "teamId": "G535V4YMG8",
+    "appBundleIdentifier": "com.jetstar.dev.apnstest",
+    "server": "Development",
+    "payload": {
+      "aps": {
+        "alert": "Hello World!"
+      }
+    }
+  }
